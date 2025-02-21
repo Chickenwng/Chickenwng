@@ -1,7 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chickenwng&show_icons=true&theme=dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chickenwng&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chickenwng&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Chickenwng/Chickenwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
